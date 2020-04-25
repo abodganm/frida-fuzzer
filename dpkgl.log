@@ -1,0 +1,330 @@
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name                                                       Version           Architecture Description
++++-==========================================================-=================-============-===========================================================================================================================================================================================================================================================================================================================================
+ii  apt                                                        1.8.2-3           iphoneos-arm the advanced packaging tool from Debian
+ii  apt-key                                                    1.8.2-1           iphoneos-arm repository encryption key management tool
+ii  apt1.4                                                     1:0               iphoneos-arm the advanced packaging tool from Debian
+ii  base                                                       1-5               iphoneos-arm underlying system directory structure
+ii  bash                                                       5.0.3-2           iphoneos-arm the best shell ever written by Brian Fox
+ii  berkeleydb                                                 6.2.32-1          iphoneos-arm Oracle's embeddable database engine
+ii  bzip2                                                      1.0.6-1           iphoneos-arm compression that's slightly better than gzip
+ii  ca-certificates                                            0.0.2             all          CA certs for curl, wget, git.
+ii  com.ex.substitute                                          0.1.8             iphoneos-arm Substrate substitute for code substitution
+ii  com.kookooapps.adandeaconsoundboard                        1.0               iphoneos-arm This hilarious soundboard contains clips from Dan Deacon's Drinking out of cups. It's perfect for prank calls!
+ii  com.saurik.substrate.safemode                              0.9.6003          iphoneos-arm safe mode safety extension (safe)
+ii  coreutils                                                  8.31-1            iphoneos-arm core set of Unix shell utilities from GNU
+ii  coreutils-bin                                              8.31-1            iphoneos-arm just the /bin folder from GNU coreutils
+ii  cy+cpu.arm64                                               0                 iphoneos-arm virtual CPU dependency
+ii  cy+kernel.darwin                                           19.0.0            iphoneos-arm virtual kernel dependency
+ii  cy+lib.corefoundation                                      1671.10           iphoneos-arm virtual corefoundation dependency
+ii  cy+model.iphone                                            9.3               iphoneos-arm virtual model dependency
+ii  cy+os.ios                                                  13.1.2            iphoneos-arm virtual operating system dependency
+ii  cydia                                                      1.1.33            iphoneos-arm graphical iPhone front-end for APT
+ii  cydia-lproj                                                1.1.32~b1         iphoneos-arm languages and translations for Cydia
+ii  darwintools                                                1.1-1             iphoneos-arm startupfiletool, sw_vers
+ii  debianutils                                                4.8.6-1           iphoneos-arm pretty much just run-parts. yep? run-parts
+ii  diffutils                                                  3.6-1             iphoneos-arm compare two files for differences
+ii  diskdev-cmds                                               593.221.1-1       iphoneos-arm mount, quota, fsck, fstyp, fdisk, tunefs
+ii  dpkg                                                       1.19.7-1          iphoneos-arm package maintainance tools from Debian
+ii  essential                                                  0-2               iphoneos-arm contains nothing, represents everything
+ii  file                                                       5.35-2            iphoneos-arm guesses the type of a file from contents
+ii  findutils                                                  4.6.0-2           iphoneos-arm indexes and searches filesystems
+ii  firmware                                                   13.1.2            iphoneos-arm almost impressive Apple frameworks
+ii  firmware-sbin                                              0-1               all          represents Telesphoreo / iPhoneOS conflicts
+ii  gcrypt                                                     1.8.3-1           iphoneos-arm LGPL cryptographic algorithm library
+ii  gettext                                                    0.19.8-1          iphoneos-arm internationalization helper for strings
+ii  gnupg                                                      2.2.11-2          iphoneos-arm GNU privacy guard - a free PGP replacement
+ii  gnutls                                                     3.5.19-1          iphoneos-arm free sofware alternative to OpenSSL
+ii  grep                                                       3.1-1             iphoneos-arm searches files for regular expressions
+ii  gsc.3-gvenice                                              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.64-bit                                                 1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.720p                                                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.a-w-d-l-capability                                     1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.accelerometer                                          1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.accessibility                                          1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.activation-protocol                                    2                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.additional-text-tones                                  1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.air-drop-capability                                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.airplay-mirroring                                      1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.all-features                                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.allow-you-tube                                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.allow-you-tube-plugin                                  1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.allow32-bit-apps                                       1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.ambient-light-sensor                                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.any-telephony                                          1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.app-capacity-t-v-o-s                                   51539607552       iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.app-store                                              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.application-installation                               1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.arkit                                                  1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.arm64                                                  1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.armv6                                                  1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.armv7                                                  1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.armv7s                                                 1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.assistant                                              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.audio-playback-capability                              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.auto-focus-camera                                      1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.backlight-capability                                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.baseband-class                                         3                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.battery-current-capacity                               96                iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.blue-light-reduction-supported                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.bluetooth                                              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.bluetooth-le                                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.board-id                                               12                iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.c-p-u-sub-type                                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.c-p-u-type                                             16777228          iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.camera-flash                                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.camera-front-flash                                     1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.camera-live-effects-capability                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.camera-max-burst-length                                999               iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.cellular-data                                          1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.cellular-telephony-capability                          1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.chip-i-d                                               32784             iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.cloud-photo-library-capability                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.coastline-glow-rendering-capability                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.compass-type                                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.contains-cellular-radio                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.continuity-capability                                  1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.core-routine-capability                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-class-number                                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-color                                           2                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-color-map-policy                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-cover-glass-color                               2                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-enclosure-color                                 4                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-housing-color                                   4                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-launch-time-limit-scale                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-prefers-building-strokes                        1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-prefers-procedural-anti-aliasing                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-prefers-traffic-alpha                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-prefers3-d-building-strokes                     1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-r-g-b-color                                     3881788           iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-scene-update-time-limit-scale                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-a-o-p                                  1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-a-s-t-c                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-adaptive-maps-u-i                      1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-always-listening                       1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-always-on-compass                      1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-c-c-k                                  1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-camera-haptics                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-car-integration                        1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-closed-loop-haptics                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-crude-prox                             1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-do-not-disturb-while-driving           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-enhanced-a-c3                          1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-haptics                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-heart-rate-variability                 1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-hi-res-buildings                       1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-liquid-detection_-corrosion-mitigation 1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-maps-blurred-u-i                       1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-navigation                             1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-periodic-a-l-s-updates                 1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-r-g-b10                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-si-d-p                                 1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-simplistic-road-mesh                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-tethering                              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-webkit                                 1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports-y-cb-cr10                              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports1080p                                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports3-d-imagery                             1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports3-d-maps                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports4k                                      1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports720p                                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.device-supports9-pin                                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.dictation                                              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.display-mirroring                                      1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.displayport                                            1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.encode-aac                                             1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.encrypted-data-partition                               1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.external-charge-capability                             1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.f-d-r-sealing-status                                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.f-m-f-allowed                                          1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.face-time-back-camera-temporal-noise-reduction-mode    10                iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.face-time-camera-supports-hardware-face-detection      1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.face-time-front-camera-temporal-noise-reduction-mode   10                iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.face-time-photos-opt-in                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.fcc-logos-via-software                                 1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.first-party-launch-time-limit-scale                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.forward-camera-capability                              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.front-facing-camera                                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.front-facing-camera-auto-h-d-r-capability              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.front-facing-camera-burst-capability                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.front-facing-camera-h-d-r-capability                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.front-facing-camera-h-d-r-on-capability                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.front-facing-camera-max-video-zoom-factor              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.front-facing-camera-still-duration-for-burst           100               iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.front-facing-camera-video-capture1080p-max-f-p-s       30                iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.front-facing-camera-video-capture720p-max-f-p-s        30                iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.full-6                                                 1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.gamekit                                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.gas-gauge-battery                                      1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.gps                                                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.gyroscope                                              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.h-e-v-c-decoder10bit-supported                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.h-e-v-c-decoder8bit-supported                          1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.h-e-v-c-encoding-capability                            1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.h264-encoder-capability                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.hardware-keyboard                                      1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.has-baseband                                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.has-battery                                            1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.has-extended-color-display                             1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.has-mesa                                               1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.has-p-k-a                                              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.has-s-e-p                                              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.has-spring-board                                       1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.has-thin-bezel                                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.hd-video-capture                                       1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.hdr-image-capture                                      1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.healthkit                                              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.hearingaid-audio-equalization                          1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.hearingaid-low-energy-audio                            1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.hidpi                                                  1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.highest-supported-video-mode                           2                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.home-button-type                                       1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.homescreen-wallpaper                                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.hw-encode-snapshots                                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.i-a-p2-capability                                      1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.i-d-a-m-capability                                     1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.image4-supported                                       1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.international-settings                                 1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.io-surface-backed-images                               1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.is-pwr-opposed-vol                                     1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.is-u-i-build                                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.launch-time-limit-scale-supported                      1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.load-thumbnails-while-scrolling                        1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.location-reminders                                     1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.location-services                                      1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.magnetometer                                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.main-screen-class                                      8                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.main-screen-height                                     1334              iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.main-screen-pitch                                      326               iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.main-screen-scale                                      2                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.main-screen-width                                      750               iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.max-h264-playback-level                                51                iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.maximum-screen-scale                                   2                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.metal                                                  1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.microphone                                             1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.microphone-count                                       4                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.mix-and-match-prevention                               1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.mms                                                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.mobile-device-minimum-version                          1170              iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.multitasking                                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.music-store                                            1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.n-f-c-radio-calibration-data-present                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.navajo-fusing-state                                    5                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.nfc                                                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.not-green-tea                                          1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.offline-dictation-capability                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.open-g-l-e-s-version                                   196608            iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.opengles-1                                             1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.opengles-2                                             1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.opengles-3                                             1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.ota-activation                                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.panorama-camera-capability                             1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.peer-peer                                              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.personal-hotspot                                       1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.phosphorus-capability                                  1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.photo-adjustments                                      1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.photo-capability                                       1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.photo-sharing-capability                               1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.photo-stream                                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.photos-post-effects-capability                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.pipelined-still-image-processing-capability            1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.proximity-sensor                                       1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.ptp-large-files                                        1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.r-f-exposure-separation-distance                       5                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-camera-capability                                 1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-facing-camera                                     1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-facing-camera-auto-h-d-r-capability               1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-facing-camera-burst-capability                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-facing-camera-h-d-r-capability                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-facing-camera-h-d-r-on-capability                 1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-facing-camera-h-f-r-capability                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-facing-camera-h-f-r-video-capture1080p-max-f-p-s  120               iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-facing-camera-h-f-r-video-capture720p-max-f-p-s   240               iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-facing-camera-max-video-zoom-factor               3                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-facing-camera-still-duration-for-burst            100               iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-facing-camera-video-capture-f-p-s                 60                iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-facing-camera-video-capture1080p-max-f-p-s        60                iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-facing-camera-video-capture4k-max-f-p-s           30                iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-facing-camera-video-capture720p-max-f-p-s         60                iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.rear-facing-camera60fps-video-capture-capability       1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.regional-behavior-e-u-volume-limit                     1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.regional-behavior-valid                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.regional-behavior-volume-limit                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.render-wide-gamut-images-at-display-time               1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.ringer-switch                                          1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.screen-recorder-capability                             1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.secure-element                                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.shoebox                                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.signing-fuse                                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.siri-gesture                                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.siri-offline-capability                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.sms                                                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.sphere-capability                                      1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.stand-alone-contacts                                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.stark-capability                                       1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.still-camera                                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.supports-force-touch                                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.supports-iris-capture                                  1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.supports-low-power-mode                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.supports-rotate-to-wake                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.supports-s-o-s                                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.supports-s-s-h-b-button-type                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.telephony                                              1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.touch-id                                               1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.tv-out-crossfade                                       1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.u-i-background-quality                                 100               iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.u-i-parallax-capability                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.u-i-procedural-wallpaper-capability                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.u-i-reachability                                       1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.unified-ipod                                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.venice                                                 1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.vibrator-capability                                    1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.video-camera                                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.video-stills                                           1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.voice-control                                          1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.voip                                                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.volume-buttons                                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.w-a-graphic-quality                                    100               iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.w-l-a-n-bkg-scan-cache                                 1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.watch-companion                                        1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.wi-fi                                                  1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.wifi                                                   1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.wifi-chipset                                           4355              iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.youtube                                                1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gsc.youtube-plugin                                         1                 iphoneos-arm virtual GraphicsServices dependency
+ii  gzip                                                       1.9-1             iphoneos-arm the standard Unix compression algorithm
+ii  jailbreak-resources                                        1.0~rc1           iphoneos-arm Resources used by KPPLess Jailbreaks
+ii  jbctl                                                      0.2.3-1           iphoneos-arm Displays offsets and maybe other things
+ii  launchctl                                                  23-1              iphoneos-arm Tells launchd what to do
+ii  ldid                                                       2:2.1.2+24497ae-1 iphoneos-arm pseudo-codesign Mach-O files
+ii  libapt                                                     1.8.2-1           iphoneos-arm the advanced packaging library from Debian
+ii  libapt-pkg5.0                                              1.8.2-1           iphoneos-arm the advanced packaging library from Debian
+ii  libassuan                                                  2.5.1-1           iphoneos-arm GnuPG's inter-process communication
+ii  libgmp10                                                   6.1.2-1           iphoneos-arm GMP is a free library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. There is no practical limit to the precision except the ones implied by the available memory in the machine GMP runs on. GMP has a rich set of functions, and the functions have a regular interface.
+ii  libgpg-error                                               1.32-1            iphoneos-arm GnuPG's error management library
+ii  libidn2                                                    6.1.2-1           iphoneos-arm Libidn2 is an implementation of the IDNA2008 + TR46 specifications
+ii  libksba                                                    1.3.5-1           iphoneos-arm GnuPG's certification management library
+ii  libplist                                                   2.0.0-2           iphoneos-arm plist library
+ii  libssl1.0                                                  1.0.2s-1          iphoneos-arm OpenSSL Libraries for version 1.0
+ii  libtasn1                                                   4.13-1            iphoneos-arm Libtasn1 is the ASN.1 library used by GnuTLS, p11-kit and some other packages
+ii  libunistring                                               0.9.10-1          iphoneos-arm Unicode string library for C
+ii  lz4                                                        1.7.5-1           iphoneos-arm Extremely Fast Compression algorithm
+ii  lzma                                                       2:4.32.7-2        iphoneos-arm slower, but better, compression algorithm
+ii  ncurses                                                    6.1+20181013-1    iphoneos-arm feature-complete terminal library
+ii  ncurses5-libs                                              5.9-1             iphoneos-arm feature-complete terminal library
+ii  nettle                                                     3.4.1-1           iphoneos-arm Nettle is a cryptographic library
+ii  npth                                                       1.6-1             iphoneos-arm portable threading library used by X
+ii  org.thebigboss.repo.icons                                  1.0               all          locally cached package icons from BigBoss
+ii  p11-kit                                                    0.23.12-1         iphoneos-arm p11-glue utilities
+ii  profile.d                                                  0-1               iphoneos-arm makes packaging for /etc/profile reasonable
+ii  readline                                                   8.0-1             iphoneos-arm command-line history management
+ii  science.xnu.substituted                                    0.1~b4            iphoneos-arm Substitute Support
+ii  sed                                                        4.5-1             iphoneos-arm edits streams of text using patterns
+ii  shell-cmds                                                 118-8             iphoneos-arm killall, mktemp, renice, time, which
+ii  system-cmds                                                790.30.1-2        iphoneos-arm iostat, login, passwd, sync, sysctl
+ii  tar                                                        1.30-2            iphoneos-arm tool for making tape archives
+ii  trustinjector                                              0.4~b5            iphoneos-arm Inject files to kernel trust cache
+ii  uikittools                                                 1.1.15-2          iphoneos-arm UIKit/GraphicsServices command line access
+ii  xz                                                         5.2.4-4           iphoneos-arm slower, but better, compression algorithm
